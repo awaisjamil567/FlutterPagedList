@@ -1,8 +1,8 @@
 name: flutter_paged_list
-description: A new Flutter project.
+description: A new Flutter Package for handling pagination. It allows to display items in list with default pagination feature.
 version: 0.0.1
 author: Awais Jamil
-homepage:
+homepage: https://github.com/awaisjamil567/FlutterPagedList
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

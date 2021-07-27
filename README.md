@@ -77,7 +77,7 @@ class Book{
 }
 ```
 
-![Screenshot](screenshot.png)
+![Screenshot](pagedList_sc.png)
 
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),

@@ -9,7 +9,7 @@ Library:
 flutter_paged_list: 0.0.1
 
 Code:
-
+```
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
@@ -75,7 +75,7 @@ class Book{
   String description;
   Book({this.name, this.description = 'Dummy'});
 }
-
+```
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
 a library module containing code that can be shared easily across

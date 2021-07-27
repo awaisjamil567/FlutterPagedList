@@ -76,6 +76,9 @@ class Book{
   Book({this.name, this.description = 'Dummy'});
 }
 ```
+
+![Screenshot](screenshot.png)
+
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
 a library module containing code that can be shared easily across
